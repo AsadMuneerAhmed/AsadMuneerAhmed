@@ -17,7 +17,7 @@
 💻 Strong in Java & Database-driven applications  
 🌐 Intermediate in Web Development  
 🔐 Focused on Cyber Security & Ethical Hacking  
-🚀 Building real-world projects to strengthen logic & problem-solving  
+🚀 Building real-world projects to improve logic & system design  
 
 ---
 
@@ -39,45 +39,45 @@ Git | GitHub | MySQL | VS Code | NetBeans
 
 ## 📂 Featured Projects
 
-### 📊 Stock Price Calculator (Python)
-- Validates user input for accuracy  
-- Calculates total stock value dynamically  
-- Logs transactions for tracking  
+### 📊 [Stock Portfolio Tracker](https://github.com/AsadMuneerAhmed/Codealpha_Stock-Portfolio-Tracker)
+- Validates user input and calculates stock value  
+- Tracks and logs transactions  
+- Built using Python (console-based)  
 
 ---
 
-### 🏛 Complaint Management System (Java + MySQL)
-- GUI-based system for municipal complaints  
-- Stores and manages complaints in database  
-- Built using Java (NetBeans) + MySQL  
+### 🏛 [Complaint Management System](https://github.com/AsadMuneerAhmed/Complaint-Management-System-Java)
+- GUI-based complaint system for municipal services  
+- Java (NetBeans) + MySQL database integration  
+- Handles complaint storage and management  
 
 ---
 
-### 🎓 Student Management System (Java Swing)
-- Desktop-based application using Java Swing  
-- Manages student records efficiently  
-- Clean GUI with basic CRUD operations  
+### 🎓 [Student Management System](https://github.com/AsadMuneerAhmed/Student-Managment-System-)
+- Desktop application using Java Swing  
+- Manages student records with CRUD operations  
+- Focus on GUI + backend logic  
 
 ---
 
-### 🌦 Dummy Weather App (Python)
-- Simulates weather information for cities  
-- Console-based logic implementation  
-- Beginner-friendly project for data handling  
+### 🌦 [Dummy Weather App](https://github.com/AsadMuneerAhmed/Dummy-Weather-App)
+- Simulates weather data for cities  
+- Console-based Python application  
+- Focus on logic and user input handling  
 
 ---
 
-### 🔢 Number Analyzer (Python Tkinter GUI)
-- GUI-based application using Tkinter  
-- Takes user input and performs analysis  
+### 🔢 [Number Analyzer Tool](https://github.com/AsadMuneerAhmed/Number-Analyzer-Tool)
+- GUI-based Python app using Tkinter  
+- Performs number analysis from user input  
 - Demonstrates event-driven programming  
 
 ---
 
-### 🎮 Hangman Game (Python)
+### 🎮 [Hangman Game](https://github.com/AsadMuneerAhmed/python-hangman-game)
 - Console-based word guessing game  
 - Uses loops, conditions & enumerate  
-- Focus on logic building & user interaction  
+- Strong logic-building project  
 
 ---
 
@@ -90,8 +90,8 @@ Git | GitHub | MySQL | VS Code | NetBeans
 
 ## 🎯 Current Focus
 - Cyber Security & Ethical Hacking  
-- Strengthening backend & database logic  
-- Building advanced real-world systems  
+- Backend development & database design  
+- Building more advanced real-world systems  
 
 ---
 
